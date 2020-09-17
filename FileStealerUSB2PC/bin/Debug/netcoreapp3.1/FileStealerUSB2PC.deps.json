@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FileStealerUSB2PC/1.0.0": {
+        "runtime": {
+          "FileStealerUSB2PC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FileStealerUSB2PC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
